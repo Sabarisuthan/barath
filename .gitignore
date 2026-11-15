@@ -4,3 +4,4 @@ dist/
 design_src/
 *.log
 .DS_Store
+~$*
